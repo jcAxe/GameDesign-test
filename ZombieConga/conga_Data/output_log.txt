@@ -1,0 +1,46 @@
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\José\Documents\ZombieConga\conga_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\José\Documents\ZombieConga\conga_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\José\Documents\ZombieConga\conga_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\José\Documents\ZombieConga\conga_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\José\Documents\ZombieConga\conga_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\José\Documents\ZombieConga\conga_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\José\Documents\ZombieConga\conga_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\José\Documents\ZombieConga\conga_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\José\Documents\ZombieConga\conga_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.312 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\José\Documents\ZombieConga\conga_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2268 -> priority: 1 
+UnloadTime: 0.511374 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 216.
+Total: 0.135843 ms (FindLiveObjects: 0.016301 ms CreateObjectMapping: 0.013282 ms MarkObjects: 0.097203 ms  DeleteObjects: 0.007848 ms)
+
+You lost!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.254587 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 216.
+Total: 0.169653 ms (FindLiveObjects: 0.018112 ms CreateObjectMapping: 0.012678 ms MarkObjects: 0.131616 ms  DeleteObjects: 0.006037 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at EnemyController.OnBecameInvisible () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
